@@ -168,7 +168,7 @@ body {
   .bg-bot {
     height: 1000px;
     width: 1000px;
-    bottom: -470px;
+    bottom: -600px;
     right: -240px; } }
 
 @media screen and (min-width: 375px) and (max-width: 420px) and (min-height: 800px) and (max-height: 900px) {
